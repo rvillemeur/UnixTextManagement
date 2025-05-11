@@ -18,6 +18,154 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:37:45.783269-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:37:45.783269-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "YAR5XTzxDQCu4Fo4CFKd+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "The  following  are  the VT100 commands as  described  by  the \nDigital VT101 Video Terminal User Guide  (EK-VT101-UG-003).   An \nasterik (*)  beside the function indicate that it is  currently \nsupported.  A plus (+) means the function is trapped and ignored.  \n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:37:53.575699-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:37:53.575699-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "vevvXTzxDQCvPBkDCFKd+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Scrolling Functions:\n\n *  ESC [ pt ; pb r   set scroll region\n *  ESC [ ? 6 h       turn on region - origin mode\n *  ESC [ ? 6 l       turn off region - full screen mode\n "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:37:55.062637-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:37:55.062637-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "fZsGXjzxDQCvQ4S/CFKd+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Cursor Functions:\n\n *  ESC [ pn A        cursor up pn times - stop at top\n *  ESC [ pn B        cursor down pn times - stop at bottom\n *  ESC [ pn C        cursor right pn times - stop at far right\n *  ESC [ pn D        cursor left pn times - stop at far left\n *  ESC [ pl ; pc H   set cursor position - pl Line, pc Column\n *  ESC [ H           set cursor home\n *  ESC [ pl ; pc f   set cursor position - pl Line, pc Column\n *  ESC [ f           set cursor home\n *  ESC D             cursor down - at bottom of region, scroll up\n *  ESC M             cursor up - at top of region, scroll down\n *  ESC E             next line (same as CR LF)\n *  ESC 7             save cursor position(char attr,char set,org)\n *  ESC 8             restore position (char attr,char set,origin)\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:37:56.639397-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:37:56.639397-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "sqoeXjzxDQCvSgaTCFKd+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Applications / Normal Mode:\n\n *  ESC [ ? 1 h       cursor keys in applications mode\n *  ESC [ ? 1 l       cursor keys in cursor positioning mode\n *  ESC =             keypad keys in applications mode\n *  ESC >             keypad keys in numeric mode\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2025-05-11T07:29:43.713141-04:00"
 					}
 				},
@@ -29,7 +177,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T07:29:43.713141-04:00"
+						"dateAndTimeString" : "2025-05-11T07:37:56.642609-04:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +187,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "Character Sets:\n\n *  ESC ( A           UK char set as G0\n *  ESC ( B           US char set as G0\n *  ESC ( 0           line char set as G0\n *  ESC ) A           UK char set as G1\n *  ESC ) B           US char set as G1\n *  ESC ) 0           line char set as G1\n *  ESC N             select G2 set for next character only\n *  ESC O             select G3 set for next character only\n\nCharacter Attributes:\n\n *  ESC [ m           turn off attributes - normal video\n *  ESC [ 0 m         turn off attributes - normal video\n!*  ESC [ 4 m         turn on underline mode \n *  ESC [ 7 m         turn on inverse video mode\n *  ESC [ 1 m         highlight\n *  ESC [ 5 m         blink\n\n!  On color systems underlined characters are displayed in blue\n"
 			}
 		]
 	},

@@ -166,6 +166,43 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:38:03.899525-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:38:03.899525-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "0XKNXjzxDQCvYid6CFKd+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Character Sets:\n\n *  ESC ( A           UK char set as G0\n *  ESC ( B           US char set as G0\n *  ESC ( 0           line char set as G0\n *  ESC ) A           UK char set as G1\n *  ESC ) B           US char set as G1\n *  ESC ) 0           line char set as G1\n *  ESC N             select G2 set for next character only\n *  ESC O             select G3 set for next character only\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2025-05-11T07:29:43.713141-04:00"
 					}
 				},
@@ -177,7 +214,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T07:37:56.642609-04:00"
+						"dateAndTimeString" : "2025-05-11T07:38:03.904071-04:00"
 					}
 				},
 				"uid" : {
@@ -187,7 +224,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Character Sets:\n\n *  ESC ( A           UK char set as G0\n *  ESC ( B           US char set as G0\n *  ESC ( 0           line char set as G0\n *  ESC ) A           UK char set as G1\n *  ESC ) B           US char set as G1\n *  ESC ) 0           line char set as G1\n *  ESC N             select G2 set for next character only\n *  ESC O             select G3 set for next character only\n\nCharacter Attributes:\n\n *  ESC [ m           turn off attributes - normal video\n *  ESC [ 0 m         turn off attributes - normal video\n!*  ESC [ 4 m         turn on underline mode \n *  ESC [ 7 m         turn on inverse video mode\n *  ESC [ 1 m         highlight\n *  ESC [ 5 m         blink\n\n!  On color systems underlined characters are displayed in blue\n"
+				"string" : "Character Attributes:\n\n *  ESC [ m           turn off attributes - normal video\n *  ESC [ 0 m         turn off attributes - normal video\n!*  ESC [ 4 m         turn on underline mode \n *  ESC [ 7 m         turn on inverse video mode\n *  ESC [ 1 m         highlight\n *  ESC [ 5 m         blink\n\n!  On color systems underlined characters are displayed in blue\n"
 			}
 		]
 	},
