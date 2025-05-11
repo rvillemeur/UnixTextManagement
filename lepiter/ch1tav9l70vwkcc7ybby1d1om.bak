@@ -1,0 +1,631 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:27:33.936497-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:27:33.936497-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "zPkAOTzxDQCGJSmvB8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "La plupart des commandes EX suivent le modèle\n    :adresse COMMANDE OPTIONS\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:27:35.112588-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:27:35.112588-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "OOwSOTzxDQCGLA0/B8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "adresse peut être\n    - numéro de ligne explicite\n    - pattern de recherche\n    - symbole de positionement.\nLes commandes EX peuvent être combiné avec l'opérateur |\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:31.186559-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:56.486506-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "goZqPDzxDQCGUjQ5B8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#OUVERTURE\nex nom_fichier\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:32.634267-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:58.712562-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "VaGAPDzxDQCGWXdRB8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#ECRITURE sur disque\n:w[rite]    - écrit ou renomme le buffer sur le disque\n:w!\n:w >> file  - ajoute les données dans le fichier file\n:r[ead] file     - ajoute les données de file dans le fichier courant.\n:f[ile] file - change le nom du fichier en file.\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:33.857008-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:29:00.997406-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "B0mTPDzxDQCGYHD+B8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#FERMETURE\n:x[it]      - sauve et quitte\n:wq         - sauve et quitte\n:q[uit]     - quitte Ex\n:e!         - reouvrir le fichier en perdant les modification\n:q!         - fermeture du fichier en perdant les modifications.\n:pre[serve] - sauvegarde le texte en swap\n:rec[over]  - récupère un fichier de la zone de sauvegarde\n:o[pen]     - quitte le mode Ex pour passer en mode VI\n:vi[sual]   - quitte le mode Ex pour passer en mode VI"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:34.970401-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:29:03.110445-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "EUekPDzxDQCGZwhTB8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#DEFINITION D'ADRESSE DANS EX\n:.          - ligne en cours\n:%          - toutes les lignes du fichier\n:n          - ligne du fichier\n:$          - dernière ligne du fichier\n:/pattern/  - texte satisfaisant pattern vers l'avant\n:?pattern?  - texte satisfaisant pattern vers l'arrière.\n:n,m        - ligne n à m (, permet de définir un range)\n:n;m        - ligne n à m, avec n redéfini comme la ligne courante\n\n+n          - ajoute n ligne à la sélection\n-n          - retire n lignes à la sélection#\n\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:36.962169-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:29:09.925412-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "eKfCPDzxDQCGbs6LB8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#NAVIGUER DANS LES ECRANS\n:p[rint]    - affiche la ligne \n:l[ist]     - affiche la ligne avec les caractère non imprimable\n:nu[mber]   - affiche la ligne avec son numéro de ligne\n:z type     - redessine l'écran (type peut être +, ., =, -, ^)\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:38.4852-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:29:12.063109-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "6ejZPDzxDQCGdZBlB8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#NAVIGUER DANS LE TEXTE PAR MARQUES \n:ma[rk] x   - marque le texte avec le marqueur x\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:39.629208-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:39.629208-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "IVfrPDzxDQCGfM50B8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "INSERTION DE TEXTE\n:i[nsert] texte.   - insère du texte.\n:a[ppend] texte.   - ajout de texte\n:pu[t]         - insère un caractère ou le texte qui vient d'être supprimé\n:y[ank]         - copie du texte placé dans un buffer\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:40.522055-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:40.522055-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Wvv4PDzxDQCGg+AhB8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "SUPPRESSION DE TEXTE\n:d[elete]   - suppression de texte (qui peut être mis dans un buffer)\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:41.513152-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:41.513152-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "YxwIPTzxDQCGitUKB8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "MODIFICATION DE TEXTE\n:c[hange] texte.   - change le texte\n:s[ubstitute]/pattern1/pattern2/cgp    - substition de texte\n    - c = confirm\n    - g = global\n    - p = print\n:&          - repète une substitution\n:~          - repète la dernière subsitution\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:42.663784-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:42.663784-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "EqsZPTzxDQCGkR9tB8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "DEPLACEMENT DE TEXTE\n:m[ove]     - déplacement de texte\n\n:co[py]     - copie les lignes\n:t[o]       - copie les lignes\n\n:j[oin]     - joint du texte\n\n:>          - indente vers la gauche.\n:<          - indente vers la droite.\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:44.013664-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:44.013664-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "1UMuPTzxDQCGmGSwB8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "DIVERS\n:set        - définit la valeur d'une option vi/ex\n:#          - affiche temporairement les numéros de lignes\n:=          - affiche le nombre de ligne total du fichier\n:g[lobal]   - commande globale, permettant de répéter une commande ex\n:v          - exclusion globale (inverse de :g)\n:so[urce] file    - évalue les commandes ex contenue dans le fichier file.\n:sh[ell]    - ouvre un nouveau shell, et revient en mode edit après\n:u[ndo]     - annule les dernières commandes d'édition\n:ve[rsion]  - affiche la version de vi/ex\n:!cmd       - execute la commande systeme\n:@buf       - execute le contenu du buffer\n\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:45.069109-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:45.069109-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "Zl8+PTzxDQCGn+plB8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "NAVIGUER DANS LES BUFFERS EX\n:n[ext]     - buffer suivant\n:ar[gs]     - liste des buffers ouverts par la ligne de commande\n:rew[ind]        - revient au début de la liste des buffers\n:e[dit] file     - ouvre un nouveau buffer et le sauve dans file\n:e[dit] #        - edite le buffer alternatif\n:e[dit] %        - buffer courant\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:46.253891-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:46.253891-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "w25QPTzxDQCGpqg0B8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "MAP\nLes commandes vi peuvent être mappé à une nouvelle combinaison de touche.\n:map        - définit un nouveau mapping\n:unmap      - supprime un mapping\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:12.869889-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:28:46.257432-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "ig1TOzzxDQCGR94DB8ix0g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "ABBREV\nUn texte répétitif peut être associé à une combinaison de touche\n:ab[brev]       - définit une abbréviation\n:una[bbreviate] - retire la définition de l'abbréviation"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-05-11T07:27:13.761146-04:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2025-05-11T07:27:13.761146-04:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "commande de base Ex"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "c622cd37-3cf1-0d00-861b-2e8c07c8b1d2"
+	}
+}
