@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T07:37:45.783269-04:00"
+						"dateAndTimeString" : "2025-05-11T07:40:26.565098-04:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "The  following  are  the VT100 commands as  described  by  the \nDigital VT101 Video Terminal User Guide  (EK-VT101-UG-003).   An \nasterik (*)  beside the function indicate that it is  currently \nsupported.  A plus (+) means the function is trapped and ignored.  \n"
+				"string" : "The  following  are  the VT100 commands as  described  by  the Digital VT101 Video Terminal User Guide  (EK-VT101-UG-003).   An asterik (*)  beside the function indicate that it is  currently supported.  A plus (+) means the function is trapped and ignored.  \n"
 			},
 			{
 				"__type" : "textSnippet",
@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T07:37:53.575699-04:00"
+						"dateAndTimeString" : "2025-05-11T07:40:31.864974-04:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Scrolling Functions:\n\n *  ESC [ pt ; pb r   set scroll region\n *  ESC [ ? 6 h       turn on region - origin mode\n *  ESC [ ? 6 l       turn off region - full screen mode\n "
+				"string" : "#Scrolling Functions:\n\n *  ESC [ pt ; pb r   set scroll region\n *  ESC [ ? 6 h       turn on region - origin mode\n *  ESC [ ? 6 l       turn off region - full screen mode\n "
 			},
 			{
 				"__type" : "textSnippet",
@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T07:37:55.062637-04:00"
+						"dateAndTimeString" : "2025-05-11T07:40:34.702462-04:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Cursor Functions:\n\n *  ESC [ pn A        cursor up pn times - stop at top\n *  ESC [ pn B        cursor down pn times - stop at bottom\n *  ESC [ pn C        cursor right pn times - stop at far right\n *  ESC [ pn D        cursor left pn times - stop at far left\n *  ESC [ pl ; pc H   set cursor position - pl Line, pc Column\n *  ESC [ H           set cursor home\n *  ESC [ pl ; pc f   set cursor position - pl Line, pc Column\n *  ESC [ f           set cursor home\n *  ESC D             cursor down - at bottom of region, scroll up\n *  ESC M             cursor up - at top of region, scroll down\n *  ESC E             next line (same as CR LF)\n *  ESC 7             save cursor position(char attr,char set,org)\n *  ESC 8             restore position (char attr,char set,origin)\n"
+				"string" : "#Cursor Functions:\n\n *  ESC [ pn A        cursor up pn times - stop at top\n *  ESC [ pn B        cursor down pn times - stop at bottom\n *  ESC [ pn C        cursor right pn times - stop at far right\n *  ESC [ pn D        cursor left pn times - stop at far left\n *  ESC [ pl ; pc H   set cursor position - pl Line, pc Column\n *  ESC [ H           set cursor home\n *  ESC [ pl ; pc f   set cursor position - pl Line, pc Column\n *  ESC [ f           set cursor home\n *  ESC D             cursor down - at bottom of region, scroll up\n *  ESC M             cursor up - at top of region, scroll down\n *  ESC E             next line (same as CR LF)\n *  ESC 7             save cursor position(char attr,char set,org)\n *  ESC 8             restore position (char attr,char set,origin)\n"
 			},
 			{
 				"__type" : "textSnippet",
@@ -140,7 +140,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T07:37:56.639397-04:00"
+						"dateAndTimeString" : "2025-05-11T07:40:49.888869-04:00"
 					}
 				},
 				"uid" : {
@@ -150,7 +150,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Applications / Normal Mode:\n\n *  ESC [ ? 1 h       cursor keys in applications mode\n *  ESC [ ? 1 l       cursor keys in cursor positioning mode\n *  ESC =             keypad keys in applications mode\n *  ESC >             keypad keys in numeric mode\n"
+				"string" : "#Applications / Normal Mode:\n\n *  ESC [ ? 1 h       cursor keys in applications mode\n *  ESC [ ? 1 l       cursor keys in cursor positioning mode\n *  ESC =             keypad keys in applications mode\n *  ESC >             keypad keys in numeric mode\n"
 			},
 			{
 				"__type" : "textSnippet",
@@ -177,7 +177,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T07:38:03.899525-04:00"
+						"dateAndTimeString" : "2025-05-11T07:40:52.224576-04:00"
 					}
 				},
 				"uid" : {
@@ -187,7 +187,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Character Sets:\n\n *  ESC ( A           UK char set as G0\n *  ESC ( B           US char set as G0\n *  ESC ( 0           line char set as G0\n *  ESC ) A           UK char set as G1\n *  ESC ) B           US char set as G1\n *  ESC ) 0           line char set as G1\n *  ESC N             select G2 set for next character only\n *  ESC O             select G3 set for next character only\n"
+				"string" : "#Character Sets:\n\n *  ESC ( A           UK char set as G0\n *  ESC ( B           US char set as G0\n *  ESC ( 0           line char set as G0\n *  ESC ) A           UK char set as G1\n *  ESC ) B           US char set as G1\n *  ESC ) 0           line char set as G1\n *  ESC N             select G2 set for next character only\n *  ESC O             select G3 set for next character only\n"
 			},
 			{
 				"__type" : "textSnippet",
@@ -214,7 +214,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-05-11T07:38:03.904071-04:00"
+						"dateAndTimeString" : "2025-05-11T07:40:55.570338-04:00"
 					}
 				},
 				"uid" : {
@@ -224,7 +224,340 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Character Attributes:\n\n *  ESC [ m           turn off attributes - normal video\n *  ESC [ 0 m         turn off attributes - normal video\n!*  ESC [ 4 m         turn on underline mode \n *  ESC [ 7 m         turn on inverse video mode\n *  ESC [ 1 m         highlight\n *  ESC [ 5 m         blink\n\n!  On color systems underlined characters are displayed in blue\n"
+				"string" : "#Character Attributes:\n\n *  ESC [ m           turn off attributes - normal video\n *  ESC [ 0 m         turn off attributes - normal video\n!*  ESC [ 4 m         turn on underline mode \n *  ESC [ 7 m         turn on inverse video mode\n *  ESC [ 1 m         highlight\n *  ESC [ 5 m         blink\n\n!  On color systems underlined characters are displayed in blue\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:39:55.679785-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:40:57.890611-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "bRQ3ZTzxDQCvx77rCFKd+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Line Attributes:\n\n +  ESC # 3           double high (top half) - double wide \n +  ESC # 4           double high (bottom half) - double wide\n +  ESC # 5           single wide - single height\n +  ESC # 6           double wide - single height\n                "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:39:57.296445-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:41:00.40843-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "hb5PZTzxDQCvzlZNCFKd+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Erasing:\n\n *  ESC [ K           erase to end of line (inclusive)\n *  ESC [ 0 K         erase to end of line (inclusive)\n *  ESC [ 1 K         erase to beginning of line (inclusive)\n *  ESC [ 2 K         erase entire line (cursor doesn't move)\n *  ESC [ J           erase to end of screen (inclusive)\n *  ESC [ 0 J         erase to end of screen (inclusive)\n *  ESC [ 1 J         erase to beginning of screen (inclusive)\n *  ESC [ 2 J         erase entire screen (cursor doesn't move)\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:39:58.572021-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:39:58.572021-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "4TVjZTzxDQCv1fP8CFKd+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Tabulation:\n\n *  ESC H             set tab in current position\n *  ESC [ g           clear tab stop in current position\n *  ESC [ 0 g         clear tab stop in current position\n *  ESC [ 3 g         clear all tab stops\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:39:59.92754-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:41:04.054604-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "8uR3ZTzxDQCv3E8cCFKd+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Printing:\n\n *  ESC [ i           print page\n *  ESC [ 0 i         print page\n *  ESC [ 1 i         print line\n *  ESC [ ? 4 i       auto print off\n *  ESC [ ? 5 i       auto print on                \n +  ESC [ 4 i         print controller off\n +  ESC [ 5 i         print controller on\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:40:01.116712-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:41:06.071907-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "RAaKZTzxDQCv4+LuCFKd+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Requests / Reports:\n\n *  ESC [ 5 n         request for terminal status\n    ESC [ 0 n         report - no malfunction\n *  ESC [ 6 n         request for cursor position report\n    ESC [ pl;pc R     report - cursor at line pl, & column pc\n *  ESC [ ? 1 5 n     request printer status\n    ESC [ ? 1 0 n     report - printer ready\n *  ESC [ c           request to identify terminal type\n *  ESC [ 0 c         request to identify terminal type\n *  ESC Z             request to identify terminal type\n    ESC [ ? 1;0 c     report - type VT100\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:40:02.365089-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:41:08.670503-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "7RadZTzxDQCv6t9zCFKd+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Initialization / Tests:\n\n +  ESC c             reset to initial state\n +  ESC [ 2 ; 1 y     power up test\n +  ESC [ 2 ; 2 y     loop back test\n +  ESC [ 2 ; 9 y     power up test till failure or power down\n +  ESC [ 2 ; 10 y    loop back test till failure or power down\n +  ESC # 8           video alignment test-fill screen with E's\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:40:03.537447-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:41:11.136763-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "n/muZTzxDQCv8dnpCFKd+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#Setup Functions:\n\n +  ESC [ ? 2 l       enter VT52 mode\n +  ESC <             exit VT52 mode\n +  ESC [ ? 3 h       132 column mode\n +  ESC [ ? 3 l       80 column mode\n +  ESC [ ? 4 h       smooth scroll\n +  ESC [ ? 4 l       jump scroll\n *  ESC [ ? 5 h       black characters on white screen mode\n *  ESC [ ? 5 l       white characters on black screen mode\n *  ESC [ ? 7 h       auto wrap to new line\n *  ESC [ ? 7 l       auto wrap off\n +  ESC [ ? 8 h       keyboard auto repeat mode on\n +  ESC [ ? 8 l       keyboard auto repeat mode off\n +  ESC [ ? 9 h       480 scan line mode\n +  ESC [ ? 9 l       240 scan line mode\n *  ESC [ ? 1 8 h     print form feed on\n *  ESC [ ? 1 8 l     print form feed off\n *  ESC [ ? 1 9 h     print whole screen\n *  ESC [ ? 1 9 l     print only scroll region\n +  ESC [ 2 0 h       newline mode LF, FF, VT, CR = CR/LF)\n +  ESC [ 2 0 l       line feed mode (LF, FF, VT = LF ; CR = CR)\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:40:10.004858-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:41:19.022206-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "G6URZjzxDQCv+fkKCFKd+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#LED Functions:\n\n!*  ESC [ 0 q         turn off LED 1-4\n!*  ESC [ 1 q         turn on LED #1\n!*  ESC [ 2 q         turn on LED #2\n!*  ESC [ 3 q         turn on LED #3\n!*  ESC [ 4 q         turn on LED #4\n\n!   The bottom line of the screen is used as a status line by the\n    VT100 emulation.   The information on the bottom line is:\n\n1)  the status of the four VT100 LED's\n2)  the  status  of the numeric  keypad  (application mode /normal mode)\n3)  the  status  of  the cursor  keypad  (application mode/normal  mode)\n\n\nInterpreted Control Characters:\n \n *  ^O                shift in  - selects G0 character set\n *  ^N                shift out - selects G1 character set\n\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:39:49.546042-04:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-05-11T07:41:31.337492-04:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "pX3ZZDzxDQCvvMCjCFKd+A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "#VT100 KEYBOARD MAP\n\n   The following table describes the special function keys of the \nVT100 and shows the transmitted sequences.  It also shows the key \nor  key sequence required to produce this function on the  IBM-PC \nkeyboard.  The  VT100 has four function keys PF1 - PF4,  four arrow \nkeys, and a numeric keypad with 0-9,  \".\",  \"-\",  RETURN and  \",\".\nThe numeric  keypad  and  the arrow keys may be in standard  mode or \napplications mode as set by the host computer.  Sequences will be \nsent as follows:\n\n To Get                                  Press Key on\nVT100 Key    Standard    Applications     IBM Keypad\n=====================================================\n\n                                          NUMLOK - On\nKeypad:\n\n   0            0           ESC O p           0\n   1            1           ESC O q           1\n   2            2           ESC O r           2\n   3            3           ESC O s           3 \n   4            4           ESC O t           4\n   5            5           ESC O u           5\n   6            6           ESC O v           6\n   7            7           ESC O w           7\n   8            8           ESC O x           8\n   9            9           ESC O y           9\n   -            -           ESC O m           -\n   ,            ,           ESC O l      * (on PrtSc key)   \n   .            .           ESC O n           .\nReturn       Return         ESC O M           +\n\n           \n                                         NUMLOK - Off    \nArrows:\n\n   Up        ESC [ A        ESC O A           Up\n  Down       ESC [ B        ESC O B          Down\n  Right      ESC [ C        ESC O C          Right\n  Left       ESC [ D        ESC O D          Left\n\n   Up        ESC [ A        ESC O A          Alt 9\n  Down       ESC [ B        ESC O B          Alt 0\n  Right      ESC [ C        ESC O C          Alt -\n  Left       ESC [ D        ESC O D          Alt =\n\n  Note that either set of keys may be used to send VT100 arrow keys.\n  The Alt 9,0,-, and = do not require NumLok to be off.\n  \nFunctions:\n\nPF1 - Gold   ESC O P        ESC O P           F1\nPF2 - Help   ESC O Q        ESC O Q           F2\nPF3 - Next   ESC O R        ESC O R           F3\nPF4 - DelBrk ESC O S        ESC O S           F4\n\n\n   Please note that the backspace key transmits an ascii DEL \n(character 127) while in VT100 emulation.  To get a true ascii\nbackspace (character 8) you must press control-backspace."
 			}
 		]
 	},
